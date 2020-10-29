@@ -1,6 +1,6 @@
-title: # a name for your Learning Lab course
-tagline: # a short description for your Learning Lab course, displayed on the course catalog
-description: # a longer description for your Learning Lab course, displayed on the course's landing page
+title: Creating your first pull request
+tagline: Learn how to create your first pull request on Github from any project available
+description: Learn how contribute with projects by creating Pull Request to send your solution for different projects using Git
 
 # Repository setup
 # The following section template information for the repository
